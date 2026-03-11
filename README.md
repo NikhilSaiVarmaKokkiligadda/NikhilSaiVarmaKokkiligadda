@@ -57,9 +57,7 @@ Full Stack Developer • Cybersecurity Enthusiast • Platform Builder
 <h2 align="center">🌍 3D Contribution Globe</h2>
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=NikhilSaiVarmaKokkiligadda&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilSaiVarmaKokkiligadda&theme=github_dark"/>
 </p>
 
 ---
