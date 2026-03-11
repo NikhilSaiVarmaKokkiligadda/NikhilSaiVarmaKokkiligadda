@@ -1,67 +1,63 @@
-<h1 align="center">⚡ Nikhil Sai Varma ⚡</h1>
+<h1 align="center">⚡ Nikhil Sai Varma kokkiligadda ⚡</h1>
 
 <p align="center">
-Full Stack Engineer • Mobile Engineer • Systems Builder
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Platforms;Engineering+Real+World+Systems;Cloud+Native+Applications;Automation+%7C+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=900&color=00FFB2&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Mobile+Systems+Developer;Cloud+Native+Builder;Automation+%7C+AI+Systems"/>
 </p>
 
 ---
 
-<h2 align="center">🌍 Digital Presence</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:001f3f&height=200&section=header&text=Engineering%20Systems&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+---
+
+# 🌐 Digital Presence
 
 <p align="center">
 
 <a href="https://nikhilsaivarmakokkiligadda.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://github.com/NikhilSaiVarmaKokkiligadda">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/nikhilsaivarmakokkiligadda">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://x.com/NikhilSaiVarma">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
-</a>
-
-<a href="https://dev.to/nikhilsaivarmakokkiligadda">
-<img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
 </p>
 
 ---
 
-<h2 align="center">⚙️ Engineering Stack</h2>
+# ⚙️ Stack
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
 
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Intelligence</h2>
+# 📊 GitHub Intelligence
 
 <p align="center">
 
@@ -73,7 +69,7 @@ Full Stack Engineer • Mobile Engineer • Systems Builder
 
 ---
 
-<h2 align="center">📈 Contribution Analytics</h2>
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -83,7 +79,7 @@ Full Stack Engineer • Mobile Engineer • Systems Builder
 
 ---
 
-<h2 align="center">🌍 3D Contribution Globe</h2>
+# 🌍 3D Contribution Globe
 
 <p align="center">
 
@@ -93,7 +89,7 @@ Full Stack Engineer • Mobile Engineer • Systems Builder
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -103,16 +99,30 @@ Full Stack Engineer • Mobile Engineer • Systems Builder
 
 ---
 
-<h2 align="center">⚡ Engineering Metrics</h2>
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilSaiVarmaKokkiligadda&theme=darkhub&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NikhilSaiVarmaKokkiligadda&theme=matrix&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 👁 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NikhilSaiVarmaKokkiligadda&color=00ff9c&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <p align="center">
-⚡ Architecting Systems • Building Platforms • Shipping Products ⚡
+⚡ Architecting Systems • Shipping Platforms • Solving Real Problems ⚡
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:00ff9c&height=120&section=footer"/>
 </p>
