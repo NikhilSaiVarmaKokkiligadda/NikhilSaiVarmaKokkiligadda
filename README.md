@@ -41,6 +41,8 @@ I enjoy building platforms that solve practical problems and deliver meaningful 
 ### Frontend
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/> Flutter
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/> React
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/> Next.js
@@ -55,6 +57,7 @@ I enjoy building platforms that solve practical problems and deliver meaningful 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32"/> Tailwind CSS
 </p>
+
 
 ---
 
@@ -120,44 +123,41 @@ I enjoy building platforms that solve practical problems and deliver meaningful 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilSaiVarmaKokkiligadda&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilSaiVarmaKokkiligadda&theme=default"/>
-
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilSaiVarmaKokkiligadda&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilSaiVarmaKokkiligadda&theme=white"/>
 </p>
 
 ---
-
+# 🐍 Snake Game <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 ## Connect
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nikhilsaivarmakokkiligadda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+<a href="https://nikhilsaivarmakokkiligadda.vercel.app">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="42"/>
 </a>
 
 <a href="https://github.com/NikhilSaiVarmaKokkiligadda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
+</a>
+
+<a href="https://linkedin.com/in/nikhilsaivarmakokkiligadda">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42"/>
 </a>
 
 <a href="https://x.com/NikhilSaiVarma">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="42"/>
 </a>
 
-<a href="https://instagram.com/nikhilsaivarmakokkiligadda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35"/>
+<a href="https://dev.to/nikhilsaivarmakokkiligadda">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="42"/>
 </a>
+
+<a href="https://www.behance.net/nikhilsaivarma">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="42"/>
+</a>
+
 
 </p>
